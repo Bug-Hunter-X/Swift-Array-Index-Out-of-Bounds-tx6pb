@@ -1,0 +1,2 @@
+# Swift Array Index Out of Bounds
+This repo demonstrates a common error in Swift: attempting to access an array element using an index that is out of bounds.  Accessing an array element with an index greater than or equal to the count of elements in the array results in a runtime crash. This example shows how to avoid the issue by adding checks.
